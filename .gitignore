@@ -1,0 +1,9 @@
+videnv/
+.idea/
+MobileNet/MobileNetSSD_300x300.prototxt
+MobileNet/MobileNetSSD_train.caffemodel
+Yolo/yolov3.cfg
+Yolo/yolov3.weights
+Yolo/yolov3_classes.txt
+MobileNet/__pycache__/
+Yolo/__pycache__/
